@@ -103,3 +103,5 @@ CUDA_VISIBLE_DEVICES=1 python script.py
 - **리눅스 디스크 사용량 확인**: `du -sh *` (현재 폴더별 용량 요약), `df -h` (전체 디스크 용량)
 - **백그라운드 실행**: `nohup python script.py &`
 - **프로세스 확인**: `htop` 또는 `ps aux | grep python`
+
+changes
