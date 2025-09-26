@@ -104,4 +104,3 @@ CUDA_VISIBLE_DEVICES=1 python script.py
 - **백그라운드 실행**: `nohup python script.py &`
 - **프로세스 확인**: `htop` 또는 `ps aux | grep python`
 
-changes
